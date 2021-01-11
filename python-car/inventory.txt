@@ -1,0 +1,2 @@
+('Honda', 'Civic', 'Blue', 1999, 12)
+('Fiat', 'Palio', 'Red', 2000, 9)

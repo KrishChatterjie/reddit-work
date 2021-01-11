@@ -1,0 +1,3 @@
+Scenario #1: A car dealership has hired your software development firm to create a new car inventory program. You first need to develop a class that represents the inventory of the dealership. What components and attributes will need to be included in your automobile class? Why?
+
+Answer: The class Car contains the attributes make, model, color, year and mileage as is specified by the question detail. Further, it contains the constructor to initialise and instanciate each new car, a method named update_car to update the required attribute of the car, and fianlly a method named values to return a tuple of all its attributes. This has to be done explicitly since the access modifiers of all the attributes are private and can only be accessed within the Car class.

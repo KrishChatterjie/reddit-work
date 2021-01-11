@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        form {
+            display: flex;
+            justify-content: flex-start;
+        }
+        select {
+            margin-right: 20px;
+        }
+    </style>
+    <title>Random Img</title>
+</head>
+<body>
+    <h1>Random Image from Subreddit</h1>
+    <form method="get" action="/" class="Form">
+        <label for="subreddit">Choose a Subreddit: r/</label>
+        <select name="subreddit">
+            <option value="pics" selected>Pics</option>
+            <option value="nude1819">Nude1819</option>
+            <option value="rustyrails">RustyRails</option>
+            <option value="madlads">Madlads</option>
+        </select>
+        <button type="submit">Submit</button>
+    </form>
+    <img src="{{url}}" alt="Random Image" style="width:800px; height:auto">
+</body>
+</html>
