@@ -10,12 +10,14 @@ spcl = ["scan anxiety", "scan-anxiety", "scan-related anxiety", "scan-associated
 
 mr = ws1.max_row
 
-for i in range (3, mr + 1):
+# for i in range (3, mr + 1):
+for i in range (2, 115):
     # HYPERLINK
-    # c = ws1.cell(row = i, column = 5).value
-    # cell = 'E'+str(i)
-    # ws1[cell].hyperlink = c
-    # ws1[cell].value = "X"
+    c = ws1.cell(row = i, column = 6).value
+    print(c)
+    cell = 'E'+str(i)
+    ws1[cell].hyperlink = c
+    ws1[cell].value = "X"
 
     # REPLY
     # if ws1.cell(row = i, column = 9).value[2] == '@':
@@ -59,6 +61,5 @@ for i in range (3, mr + 1):
     #         hashtag = hashtag[:-1]
     #     ws1.cell(row=i, column=2).value = key
     #     ws1.cell(row=i, column=3).value = hashtag
-    pass
     
 wb1.save(filename=filename)
