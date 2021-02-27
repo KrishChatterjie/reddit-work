@@ -1,7 +1,7 @@
 from openpyxl import Workbook
 import openpyxl as xl
 
-filename ="C:\\Users\\Srijib\\.vscode\\reddit-work\\excel-copy\\May 2020 loads.xlsx"
+filename ="C:\\Users\\Srijib\\Projects\\reddit-work\\excel-copy\\May 2020 loads.xlsx"
 wb1 = xl.load_workbook(filename) 
 ws1 = wb1.worksheets[0] 
 
