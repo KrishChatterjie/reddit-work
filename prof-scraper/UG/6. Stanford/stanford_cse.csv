@@ -1,0 +1,138 @@
+name,designation,email,phone
+Sara Achour,Regular Faculty,sachour@cs.stanford.edu,
+Maneesh Agrawala,Regular Faculty,@cs.stanford.edu,
+Alex Aiken,Regular Faculty,aiken@cs.stanford.edu,650-725-3359
+Nima Anari,Regular Faculty,nima.anari@cs.stanford.edu,
+Clark Barrett,Regular Faculty,barrett@cs.stanford.edu,650-736-0822
+Gill Bejerano,Regular Faculty,Click here@cs.stanford.edu,650 723-7666
+Michael Bernstein,Regular Faculty,msb@cs.stanford.edu,650-724-1248
+Jeannette Bohg,Regular Faculty,jbohg@cs.stanford.edu,650-497-1021
+Dan Boneh,Regular Faculty,dabo@cs.stanford.edu,650-725-3897
+Adam Bouland,Regular Faculty,abouland@cs.stanford.edu,
+Emma Brunskill,Regular Faculty,ebrun@cs.stanford.edu,
+Moses Charikar,Regular Faculty,@cs.stanford.edu,
+Bill Dally,Regular Faculty,@cs.stanford.edu,650-725-8945
+Ron Dror,Regular Faculty,rondror@cs.stanford.edu,650-497-8586
+Zakir Durumeric,Regular Faculty,zakir@cs.stanford.edu,650-724-6279
+Dawson Engler,Regular Faculty,engler@cs.stanford.edu,650-723-0762
+Stefano Ermon,Regular Faculty,stefano.ermon@cs.stanford.edu,650-498-9942
+Kayvon Fatahalian,Regular Faculty,@cs.stanford.edu,
+Ron Fedkiw,Regular Faculty,@cs.stanford.edu,
+Chelsea Finn,Regular Faculty,cbfinn@cs.stanford.edu,
+Mike Genesereth,Regular Faculty,@cs.stanford.edu,650-723-0934
+Noah Goodman,Regular Faculty,noah.goodman@cs.stanford.edu,
+Leonidas Guibas,Regular Faculty,guibas@cs.stanford.edu,650-723-0304
+Patrick Hanrahan,Regular Faculty,hanrahan@cs.stanford.edu,650-723-8530
+Tatsu Hashimoto,Regular Faculty,thashim@cs.stanford.edu,
+John Hennessy,Regular Faculty,@cs.stanford.edu,650-723-2481
+Mark Horowitz,Regular Faculty,horowitz@cs.stanford.edu,650-725-3707
+Doug James,Regular Faculty,djames@cs.stanford.edu,650-723-0104
+Dan Jurafsky,Regular Faculty,@cs.stanford.edu,650-723-4284
+Sachin Katti,Regular Faculty,skatti@cs.stanford.edu,650-724-8960
+Oussama Khatib,Regular Faculty,khatib@cs.stanford.edu,650-723-9753
+Fred Kjoelstad,Regular Faculty,kjolstad@cs.stanford.edu,
+Christos Kozyrakis,Regular Faculty,christos.kozyrakis@cs.stanford.edu,650-725-3716
+Anshul Kundaje,Regular Faculty,@cs.stanford.edu,650-723-2353
+Monica Lam,Regular Faculty,lam@cs.stanford.edu,650-725-3714
+James Landay,Regular Faculty,landay@cs.stanford.edu,650-498-8215
+Jure Leskovec,Regular Faculty,jure@cs.stanford.edu,650-725-3711
+Philip Levis,Regular Faculty,philip.levis@cs.stanford.edu,650-725-9046
+Fei-Fei Li,Regular Faculty,feifeili@cs.stanford.edu,
+Percy Liang,Regular Faculty,pliang@cs.stanford.edu,650-725-8797
+Karen Liu,Regular Faculty,karenliu@cs.stanford.edu,
+Tengyu Ma,Regular Faculty,tengyuma@cs.stanford.edu,
+Chris Manning,Regular Faculty,manning@cs.stanford.edu,650-723-7683
+David Mazieres,Regular Faculty,Click here@cs.stanford.edu,(415) 490-9451
+Nick McKeown,Regular Faculty,@cs.stanford.edu,650-725-3641
+John Mitchell,Regular Faculty,jcm@cs.stanford.edu,650-723-8634
+Subhasish Mitra,Regular Faculty,@cs.stanford.edu,650-724-1915
+Kunle Olukotun,Regular Faculty,kunle@cs.stanford.edu,650-725-3713
+John Ousterhout,Regular Faculty,ouster@cs.stanford.edu,650-721-6325
+Chris Piech,Regular Faculty,@cs.stanford.edu,
+Balaji Prabhakar,Regular Faculty,balaji@cs.stanford.edu,650-723-5896
+Chris Re,Regular Faculty,chrismre@cs.stanford.edu,
+Omer Reingold,Regular Faculty,omer.reingold@cs.stanford.edu,
+Mendel Rosenblum,Regular Faculty,mendel@cs.stanford.edu,650-723-0474
+Aviad Rubinstein,Regular Faculty,aviad@cs.stanford.edu,
+Dorsa Sadigh,Regular Faculty,dorsa@cs.stanford.edu,
+Mehran Sahami,Regular Faculty,sahami@cs.stanford.edu,650-723-6059
+Silvio Savarese,Regular Faculty,ssilvio@cs.stanford.edu,650-497-0360
+Li-Yang Tan,Regular Faculty,liyang@cs.stanford.edu,
+Caroline Trippel,Regular Faculty,trippel@cs.stanford.edu,
+Greg Valiant,Regular Faculty,valiant@cs.stanford.edu,650-723-1787
+Jennifer Widom,Regular Faculty,widom@cs.stanford.edu,650-723-9745
+Keith Winstein,Regular Faculty,keithw@cs.stanford.edu,617-388-2138
+Mary Wootters,Regular Faculty,marykw@cs.stanford.edu,
+Jiajun Wu,Regular Faculty,jiajunwu@cs.stanford.edu,
+Daniel Yamins,Regular Faculty,yamins@cs.stanford.edu,
+Matei Zaharia,Regular Faculty,matei@cs.stanford.edu,
+Jay Borenstein,Lecturer,borenstein@cs.stanford.edu,650-726-8242
+Jerry Cain,Lecturer,@cs.stanford.edu,650-725-8597
+Michael Chang,Lecturer,@cs.stanford.edu,
+Chris Gregg,Lecturer,cgregg@cs.stanford.edu,650-736-0383
+Cynthia Lee,Lecturer,cbl@cs.stanford.edu,650-497-3070
+Nick Parlante,Lecturer,@cs.stanford.edu,650-725-4727
+Keith Schwarz,Lecturer,@cs.stanford.edu,650-723-4350
+Julie Stanford,Lecturer,juliegs@cs.stanford.edu,
+Nick Troccoli,Lecturer,troccoli@cs.stanford.edu,650-723-3642
+Christina Wodtke,Lecturer,christina.wodtke@cs.stanford.edu,
+Lisa Yan,Lecturer,yanlisa@cs.stanford.edu,
+Patrick Young,Lecturer,@cs.stanford.edu,650-723-6090
+Julie Zelenski,Lecturer,juliez@cs.stanford.edu,650-725-8596
+David Cheriton,Emeritus Faculty,cheriton@cs.stanford.edu,650-723-1131
+Tom Dienstbier,Emeritus Faculty,@cs.stanford.edu,
+David Dill,Emeritus Faculty,dill@cs.stanford.edu,650-725-3642
+Edward Feigenbaum,Emeritus Faculty,@cs.stanford.edu,
+Richard Fikes,Emeritus Faculty,richard.fikes@cs.stanford.edu,650-823-3429
+Don Knuth,Emeritus Faculty,Regular Mail Only@cs.stanford.edu,
+Jean-Claude Latombe,Emeritus Faculty,latombe@cs.stanford.edu,650-723-0350
+Marc Levoy,Emeritus Faculty,levoy@cs.stanford.edu,650-725-4089
+Teresa Meng,Emeritus Faculty,@cs.stanford.edu,650-725-3636
+Serge Plotkin,Emeritus Faculty,plotkin@cs.stanford.edu,
+Vaughan Pratt,Emeritus Faculty,pratt@cs.stanford.edu,
+Eric Roberts,Emeritus Faculty,eroberts@cs.stanford.edu,
+Kenneth Salisbury,Emeritus Faculty,jks@cs.stanford.edu,650-725-3358
+Yoav Shoham,Emeritus Faculty,shoham@cs.stanford.edu,
+Jeff Ullman,Emeritus Faculty,@cs.stanford.edu,
+Gio Wiederhold,Emeritus Faculty,wiederhold@cs.stanford.edu,650-725-8363
+Terry Winograd,Emeritus Faculty,winograd@cs.stanford.edu,650-723-2780
+Mohammad Akbarpour,Courtesy Faculty,@cs.stanford.edu,
+Russ Altman,Courtesy Faculty,rbaltman@cs.stanford.edu,650-725-3394
+Kwabena Boahen,Courtesy Faculty,@cs.stanford.edu,
+Stephen Boyd,Courtesy Faculty,sboyd@cs.stanford.edu,650-723-0002
+John Duchi,Courtesy Faculty,jduchi@cs.stanford.edu,
+Sean Follmer,Courtesy Faculty,sfollmer@cs.stanford.edu,
+Jacob Fox,Courtesy Faculty,jacob.fox@cs.stanford.edu,
+Surya Ganguli,Courtesy Faculty,surya.ganguli@cs.stanford.edu,
+Ashish Goel,Courtesy Faculty,@cs.stanford.edu,
+Sharad Goel,Courtesy Faculty,scgoel@cs.stanford.edu,
+Patrick Hayden,Courtesy Faculty,patrick.hayden@cs.stanford.edu,
+Thomas Icard,Courtesy Faculty,@cs.stanford.edu,
+Ramesh Johari,Courtesy Faculty,rjohari@cs.stanford.edu,
+Mykel Kochenderfer,Courtesy Faculty,mykel@cs.stanford.edu,650-497-3574
+Michael Levitt,Courtesy Faculty,@cs.stanford.edu,650-276-0500
+Scott Linderman,Courtesy Faculty,@cs.stanford.edu,
+Stephen Montgomery,Courtesy Faculty,smontgom@cs.stanford.edu,650-725-9641
+Marco Pavone,Courtesy Faculty,marco.pavone@cs.stanford.edu,
+Roy Pea,Courtesy Faculty,roypea@cs.stanford.edu,650-724-3720
+Chris Potts,Courtesy Faculty,cgpotts@cs.stanford.edu,
+Priyanka Raina,Courtesy Faculty,@cs.stanford.edu,
+Daniel Rubin,Courtesy Faculty,daniel.rubin@cs.stanford.edu,
+Aaron Sidford,Courtesy Faculty,sidford@cs.stanford.edu,
+Camille Utterback,Courtesy Faculty,camille.utterback@cs.stanford.edu,
+Ge Wang,Courtesy Faculty,ge.wang@cs.stanford.edu,
+Gordon Wetzstein,Courtesy Faculty,gordonwz@cs.stanford.edu,
+Serena Yeung,Courtesy Faculty,serena@cs.stanford.edu,
+James Zou,Courtesy Faculty,jamesz@cs.stanford.edu,
+Peter Bailis,Adjunct Faculty,pbailis@cs.stanford.edu,
+Edward Chang,Adjunct Faculty,@cs.stanford.edu,650-725-3903
+Changhoon Kim,Adjunct Faculty,@cs.stanford.edu,
+Daphne Koller,Adjunct Faculty,koller@cs.stanford.edu,
+Bill MacCartney,Adjunct Faculty,@cs.stanford.edu,
+Andrew Ng,Adjunct Faculty,ang@cs.stanford.edu,650-725-2593
+Sebastian Thrun,Adjunct Faculty,thrun@cs.stanford.edu,
+Jonathan Kelly,Visiting and Acting Faculty,jskelly@cs.stanford.edu,
+Kamil Krzysztof Visiting and Acting FacultyKluczniak,,kkluczniak@cs.stanford.edu,
+Marco Patrignani,Visiting and Acting Faculty,mp@cs.stanford.edu,
+Dongjun Shin,Visiting and Acting Faculty,djshin@cs.stanford.edu,
+Yaron Singer,Visiting and Acting Faculty,@cs.stanford.edu,

@@ -1,0 +1,121 @@
+name,designation,email,phone
+Pieter Abbeel,Professor,pabbeel@cs.berkeley.edu,(510) 642-7034
+Rediet Abebe,Assistant Professor,pabbeel@cs.berkeley.edu,
+Babak Ayazifar,Teaching Professor,ayazifar@berkeley.edu,510-642-9945
+Jonathan Bachrach,Adjunct Assistant Professor,jrb@eecs.berkeley.edu,
+Ruzena Bajcsy,Professor Emerita,bajcsy@eecs.berkeley.edu,510-642-9423
+Michael Ball,Lecturer,ball@berkeley.edu,
+David Bamman,Below The Line Assistant Professor,dbamman@berkeley.edu,
+Brian A. Barsky,"Professor Emeritus , Professor in the Graduate School",barsky@berkeley.edu,
+Peter Bartlett,Professor,bartlett@eecs.berkeley.edu,510-642-7780
+Alexandre Bayen,Professor,bayen@berkeley.edu,(510) 642-2468
+Lenore Blum,Professor in Residence,bayen@berkeley.edu,
+Manuel Blum,Professor Emeritus,blum@cs.berkeley.edu,
+Christian Borgs,Professor,borgs@berkeley.edu,
+Eric Brewer,Professor Emeritus,brewer@cs.berkeley.edu,510-642-8143
+Aydin Bulu�,Adjunct Assistant Professor,aydin@eecs.berkeley.edu,
+John F. Canny,"Professor , CS Division Chair",canny@berkeley.edu,
+Sarah Chasins,Assistant Professor,schasins@cs.berkeley.edu,
+Jennifer Chayes,"Professor , Dean",jchayes@berkeley.edu,
+Alvin Cheung,Assistant Professor,akcheung@cs.berkeley.edu,
+Alessandro Chiesa,Assistant Professor,alexch@berkeley.edu,
+Michael J. Clancy,Teaching Professor Emeritus,clancy@cs.berkeley.edu,510-642-7017
+Phillip Colella,Professor in Residence Emeritus,pcolella@lbl.gov,486-5412
+Natacha Crooks,Assistant Professor,ncrooks@berkeley.edu,
+David E. Culler,Professor Emeritus,culler@berkeley.edu,
+Trevor Darrell,Professor in Residence,trevor@eecs.berkeley.edu,
+James Demmel,Professor,demmel@cs.berkeley.edu,510-643-5386
+John DeNero,Associate Teaching Professor,denero@berkeley.edu,
+Anca Dragan,Assistant Professor,anca@berkeley.edu,
+Prabal Dutta,Associate Professor,prabal@berkeley.edu,
+Alexei (Alyosha) Efros,Professor,efros@eecs.berkeley.edu,
+Laurent El Ghaoui,Professor,elghaoui@eecs.berkeley.edu,
+Hany Farid,Professor,hfarid@berkeley.edu,
+Richard J. Fateman,Professor Emeritus,fateman@cs.berkeley.edu,510-847-2368
+Jerome A. Feldman,Professor Emeritus,jfeldman@cs.berkeley.edu,510-666-2900
+Domenico Ferrari,Professor Emeritus,jfeldman@cs.berkeley.edu,
+Armando Fox,Professor,fox@berkeley.edu,510-642-6820
+Gerald Friedland,Adjunct Assistant Professor,fractor@icsi.berkeley.edu,
+Jack Gallant,"Below the Line , Professor",gallant@berkeley.edu,
+Dan Garcia,Teaching Professor,ddgarcia@cs.berkeley.edu,510-517-4041
+Sanjam Garg,Associate Professor,sanjamg@berkeley.edu,
+Ali Ghodsi,Adjunct Assistant Professor,aligh@berkeley.edu,
+Ken Goldberg,Professor,goldberg@berkeley.edu,510-643-9565
+Shafi Goldwasser,Professor,goldberg@berkeley.edu,
+Joseph Gonzalez,Assistant Professor,jegonzal@eecs.berkeley.edu,
+Susan L. Graham,Professor Emerita,graham@cs.berkeley.edu,
+Nika Haghtalab,Assistant Professor,nika@berkeley.edu,
+Moritz Hardt,Assistant Professor,hardt@berkeley.edu,
+Michael A. Harrison,Professor Emeritus,harrison@cs.berkeley.edu,510-642-1469
+Bj�rn Hartmann,Associate Professor,bjoern@eecs.berkeley.edu,415 868 5720
+Brian Harvey,Teaching Professor Emeritus,bh@cs.berkeley.edu,510-642-8311
+Marti Hearst,Professor,hearst@berkeley.edu,510-642-8016
+Joseph M. Hellerstein,Professor,hearst@berkeley.edu,510-643-4011
+Paul N. Hilfinger,Teaching Professor,hilfingr@cs.berkeley.edu,510-642-8401
+Joshua Hug,Associate Teaching Professor,josh@joshh.ug,
+Christopher Hunn,Lecturer,cthunn@eecs.berkeley.edu,
+Nilah Ioannidis,Assistant Professor,nilah@berkeley.edu,
+Jiantao Jiao,Assistant Professor,nilah@berkeley.edu,
+Michael Jordan,Professor,jordan@cs.berkeley.edu,
+Anthony D. Joseph,Professor,adj@cs.berkeley.edu,510-643-7212
+William M. Kahan,Professor Emeritus,wkahan@cs.berkeley.edu,510-642-5638
+Angjoo Kanazawa,Assistant Professor,kanazawa@berkeley.edu,
+Richard M. Karp,Professor Emeritus,karp@cs.berkeley.edu,510-642-5799
+Randy H. Katz,Professor,randy@cs.berkeley.edu,510-642-8778
+Daniel Klein,Professor,klein@cs.berkeley.edu,510-643-0805
+John D. Kubiatowicz,Professor,kubitron@cs.berkeley.edu,510-643-6817
+Edward A. Lee,"Professor Emeritus , Professor in the Graduate School",eal@eecs.berkeley.edu,510-643-3728
+Sergey Levine,Assistant Professor,eal@eecs.berkeley.edu,
+Jennifer Listgarten,Professor,eal@eecs.berkeley.edu,
+Michael Lustig,Professor,mikilustig@berkeley.edu,(510) 643-9338
+Jitendra Malik,Professor,malik@berkeley.edu,510-642-7597
+Jelani Nelson,Professor,minilek@berkeley.edu,
+Ren Ng,Assistant Professor,ren@eecs.berkeley.edu,
+James O'Brien,Professor,job@eecs.berkeley.edu,
+Christos Papadimitriou,Professor Emeritus,christos@cs.berkeley.edu,
+Aditya Parameswaran,Assistant Professor,adityagp@eecs.berkeley.edu,
+Beresford N. Parlett,Professor Emeritus,adityagp@eecs.berkeley.edu,
+David A. Patterson,"Professor Emeritus , Professor in the Graduate School",pattrsn@cs.berkeley.edu,642-6587
+Eric Paulos,Professor,paulos@berkeley.edu,
+Vern Paxson,Professor,vern@berkeley.edu,3-4209
+Kristofer Pister,Professor,ksjp@berkeley.edu,
+Raluca Ada Popa,Assistant Professor,raluca.popa@berkeley.edu,
+Jonathan Ragan-Kelley,Assistant Professor,jrk@berkeley.edu,
+Prasad Raghavendra,Associate Professor,prasad@cs.berkeley.edu,
+Kannan Ramchandran,Professor,kannanr@eecs.berkeley.edu,510-642-2353
+Satish Rao,Professor,satishr@cs.berkeley.edu,510-642-4328
+Sylvia Ratnasamy,Professor,sylvia@eecs.berkeley.edu,2-8905
+Benjamin Recht,Associate Professor,brecht@berkeley.edu,
+Lawrence A. Rowe,Professor Emeritus,rowe@eecs.berkeley.edu,
+Jaijeet Roychowdhury,Professor,jr@berkeley.edu,643-5664
+Stuart J. Russell,Professor,russell@cs.berkeley.edu,510-642-4964
+Anant Sahai,Professor,sahai@eecs.berkeley.edu,
+Niloufar Salehi,Below The Line Assistant Professor,nsalehi@berkeley.edu,
+Koushik Sen,Professor,ksen@cs.berkeley.edu,510-642-2420
+Carlo H. S�quin,Professor Emeritus,sequin@cs.berkeley.edu,510-642-5103
+Sanjit A. Seshia,Professor,sseshia@eecs.berkeley.edu,510-643-6968
+Sophia Shao,Assistant Professor,ysshao@berkeley.edu,
+Scott Shenker,Professor,shenker@icsi.berkeley.edu,3-3043
+Jonathan Shewchuk,Professor,jrs@cs.berkeley.edu,510-642-3936
+Alistair Sinclair,Professor,sinclair@cs.berkeley.edu,510-643-8144
+Alan J. Smith,Professor Emeritus,smith@eecs.berkeley.edu,510-642-5290
+Dawn Song,Professor,dawnsong@cs.berkeley.edu,510-642-8282
+Yun S. Song,Professor,yss@berkeley.edu,510-642-2351
+Costas J. Spanos,Professor,yss@berkeley.edu,510-643-6776
+Jacob Steinhardt,Below The Line Assistant Professor,jsteinhardt@berkeley.edu,
+Ion Stoica,Professor,istoica@eecs.berkeley.edu,510-643-4007
+Michael Stonebraker,Professor Emeritus,istoica@eecs.berkeley.edu,
+Bernd Sturmfels,Professor,bernd@math.berkeley.edu,510-642 6550
+Avishay Tal,Assistant Professor,atal@berkeley.edu,
+Claire Tomlin,Professor,tomlin@eecs.berkeley.edu,510-643-6610
+Umesh Vazirani,Professor,vazirani@cs.berkeley.edu,510-642-0572
+David A. Wagner,Professor,daw@cs.berkeley.edu,510-642-2758
+Martin Wainwright,Professor,wainwrig@eecs.berkeley.edu,510-643-1978
+Laura Waller,Associate Professor,waller@berkeley.edu,(510) 642-2753
+Jean Walrand,Professor Emeritus,wlr@eecs.berkeley.edu,510-219-5821
+John Wawrzynek,Professor,johnw@cs.berkeley.edu,510-643-9434
+Nicholas Weaver,Lecturer,nweaver@icsi.berkeley.edu,
+Katherine A. Yelick,Professor,yelick@cs.berkeley.edu,510-495-2431
+Nir Yosef,Associate Professor,niryosef@eecs.berkeley.edu,
+Bin Yu,Professor,binyu@stat.berkeley.edu,510-642-2021
+Stella Yu,Lecturer,stellayu@berkeley.edu,
